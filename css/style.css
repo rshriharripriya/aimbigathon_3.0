@@ -99,7 +99,7 @@ h6, .h6 {
 	background-color: rgba(0,0,0,0.7);
 }
 ::-moz-selection {
-	background-color: #rgba(0,0,0,0.7);
+	background-color: rgba(0,0,0,0.7);
 }
 
 ::selection {
@@ -357,10 +357,10 @@ a.ticket-link:active .pulse{
 .pulse {
 	display: inline-block;
 	height: 36px;
-	-webkit-animation: pulse 1s linear infinite;9
+	-webkit-animation: pulse 1s linear infinite;
 	animation: pulse 1s linear infinite;
 }
-@keyframes "pulse" {
+@keyframes pulse {
  0% {
     -webkit-transform: scale(1);
    	-moz-transform: scale(1);
@@ -384,7 +384,7 @@ a.ticket-link:active .pulse{
  }
 
 }
-@-webkit-keyframes "pulse" {
+@-webkit-keyframes pulse {
  0% {
    -webkit-transform: scale(1);
    transform: scale(1);
@@ -562,7 +562,7 @@ main {
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-image: url('../img/background.jpg');
+	background-image: url('../img/bg.jpg');
 }
 .content {
 	position: relative;
@@ -600,7 +600,6 @@ main {
 	width: 100%;
 	margin: 0;
 	color: var(--color-title);
-	text-transform: lowercase;
 	letter-spacing: -0.05em;
 	text-indent: -0.05em;
 	font-family: 'Poppins', sans-serif;
@@ -691,7 +690,7 @@ main {
 	left: 0;
 	width: 100%;
 	height: 100vh;
-	//pointer-events: none;
+	/* //pointer-events: none; */
 	z-index: 3;
 }
 
@@ -760,7 +759,6 @@ main {
 .menu__item {
 	color: var(--color-menu);
 	line-height: 1.1;
-	text-transform: lowercase;
 	letter-spacing: -0.025em;
 	text-indent: -0.025em;
 	font-family: 'Poppins', sans-serif;
