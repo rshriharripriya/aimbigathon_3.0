@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5d2672f-e1f4-45d7-a729-c76c57b83eda" name="Changes" comment="" />
+    <list default="true" id="b5d2672f-e1f4-45d7-a729-c76c57b83eda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,7 @@
       <workItem from="1636095322973" duration="862000" />
       <workItem from="1636098293894" duration="815000" />
       <workItem from="1636114173228" duration="3966000" />
-      <workItem from="1636197240179" duration="996000" />
+      <workItem from="1636197240179" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="ADDED THE TITLE Aimbigathon 3.0">
       <created>1636114309995</created>
