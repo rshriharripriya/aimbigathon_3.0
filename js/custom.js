@@ -87,7 +87,7 @@
 		//Countdown
 
         $('.countdown').downCount({
-            date: '11/20/2021 12:00:00'
+            date: '11/29/2021 10:00:00'
         }, function () {
             alert('Oops registration is over');
         });
