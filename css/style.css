@@ -1,6 +1,6 @@
 /*
  * Table of contents:
- * 
+ *
  * 1.Preloader
  * 2.Primary style
  * 3.Popover
@@ -10,7 +10,7 @@
  * 7.Media
  *
  */
- 
+
 
 /* Page Loader */
 .loader {
@@ -278,7 +278,7 @@ p {
 	letter-spacing: 3px;
 	background-color: #3a3d98;
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 #ticket-wrap a:hover{
 	text-decoration: none;
@@ -312,17 +312,17 @@ p {
 }
 a.ticket-link .pulse{
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 a.ticket-link:hover .pulse{
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 	color: #f8ae2c;
 }
 a.ticket-link:focus .pulse,
 a.ticket-link:active .pulse{
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 	color: #f8ae2c;
 }
 .ticket{
@@ -348,7 +348,7 @@ a.ticket-link:active .pulse{
 	margin-right: 10px;
 }
 .ticket:hover{
-	color: #fff;	
+	color: #fff;
 }
 .ticket svg *{
 	fill: none;
@@ -418,13 +418,13 @@ a.ticket-link:active .pulse{
 	font-size: 13px;
 	font-weight: 500;
 	letter-spacing: 1px;
-	padding: 5px 0; 
+	padding: 5px 0;
 	padding-left: 3px;
 	padding-right: 1px;
 	color: #fff;
 	display: inline-block;
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .social-fixed a:after{
 	position: absolute;
@@ -434,9 +434,9 @@ a.ticket-link:active .pulse{
 	left: 0;
 	bottom: 0;
 	z-index: -1;
-	background: linear-gradient(45deg, #0947db, #07d89d);	
+	background: linear-gradient(45deg, #0947db, #07d89d);
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .social-fixed a:hover:after{
 	width: 100%;
@@ -631,7 +631,7 @@ main {
 	z-index: 4003;
 	border: none;
     -webkit-transition: all 200ms linear;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 .content__close:focus {
 	outline: none;
@@ -649,7 +649,7 @@ main {
 	background-position: center center;
 	background-repeat: no-repeat;
     -webkit-transition: all 200ms linear;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 .content__close:hover:before {
 	left: -100%;
@@ -668,7 +668,7 @@ main {
 	background-position: center center;
 	background-repeat: no-repeat;
     -webkit-transition: all 200ms linear;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 .content__close:hover:after {
 	left: 0;
@@ -854,22 +854,22 @@ main {
 .hero-subtitle span{
 	background: linear-gradient(45deg, #f19872, #e86c9a);
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;	
+	-webkit-text-fill-color: transparent;
 }
 .hero-subtitle span:nth-child(2) {
 	background: linear-gradient(45deg, #0947db, #07d89d);
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;	
+	-webkit-text-fill-color: transparent;
 }
 .hero-subtitle span:nth-child(3) {
 	background: linear-gradient(45deg, #ee2d29, #f8ae2c);
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;	
+	-webkit-text-fill-color: transparent;
 }
 .hero-subtitle span:nth-child(4) {
 	background: linear-gradient(45deg, #3a3d98, #6f22b9);
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;	
+	-webkit-text-fill-color: transparent;
 }
 
 
@@ -994,11 +994,11 @@ ul.countdown li p {
 	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: 1px;
-	padding: 0 5px; 
+	padding: 0 5px;
 	color: #fff;
 	display: inline-block;
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .social-team a:after{
 	position: absolute;
@@ -1009,7 +1009,7 @@ ul.countdown li p {
 	bottom: 0;
 	z-index: -1;
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .social-team a:hover:after{
 	height: 100%;
@@ -1019,7 +1019,7 @@ ul.countdown li p {
 	color: #fff;
 }
 .social-team a:first-of-type:after {
-	background: linear-gradient(45deg, #0947db, #07d89d);	
+	background: linear-gradient(45deg, #0947db, #07d89d);
 }
 .social-team a:nth-of-type(2):after {
 	background: linear-gradient(45deg, #ee2d29, #f8ae2c);
@@ -1112,22 +1112,22 @@ ul.countdown li p {
 	background: linear-gradient(45deg, #0947db, #07d89d);
 	box-shadow: 1px 4px 3px rgba(0,0,0,0.1);
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .pass-wrap a:hover{
 	color: #fff;
 	box-shadow: 0 2px 1px rgba(0,0,0,0.2);
 }
-.pass-wrap a.btn-pass-2{	
+.pass-wrap a.btn-pass-2{
 	background: linear-gradient(45deg, #ee2d29, #f8ae2c);
 }
-.pass-wrap a.btn-pass-3{	
+.pass-wrap a.btn-pass-3{
 	background: linear-gradient(45deg, #3a3d98, #6f22b9);
 }
-.pass-wrap a.btn-pass-4{	
+.pass-wrap a.btn-pass-4{
 	background: linear-gradient(45deg, #9d316e, #de2d3e);
 }
-.socgfg{	
+.socgfg{
 	background: linear-gradient(45deg, #00ac53, #23c3e0);
 }
 
@@ -1154,7 +1154,7 @@ ul.countdown li p {
 	background-image: url('../img/gallery.svg');
 	opacity: 0;
     -webkit-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .gallery:hover:after{
 	opacity: 1;
@@ -1223,7 +1223,7 @@ ul.countdown li p {
 
 /* #Contact Page
 ================================================== */
- 
+
 #ajax-form {
 	width: 100%;
 	font-family: 'Poppins', sans-serif;
@@ -1275,7 +1275,7 @@ ul.countdown li p {
 	transition: border-bottom 0.3s, color 0.3s;
 }
 #ajax-form textarea,
-#ajax-form input {	
+#ajax-form input {
 	border-bottom:1px solid rgba(255,255,255,.7);
 }
 .error {
@@ -1302,15 +1302,15 @@ ul.countdown li p {
 	margin-top: 30px;
 }
 #ajax-form textarea:active,
-#ajax-form input:active {	
+#ajax-form input:active {
 	color: #ccc;
 }
 #ajax-form textarea:active,
-#ajax-form input:hover {	
+#ajax-form input:hover {
 	color: #ccc;
 }
 #ajax-form textarea:focus,
-#ajax-form input:focus {	 
+#ajax-form input:focus {
     outline: none !important;
 }
 #ajax-form input:-ms-input-placeholder  {
@@ -1356,7 +1356,7 @@ ul.countdown li p {
 #ajax-form button {
 	position: relative;
 	color:#fff;
-	cursor: pointer;	
+	cursor: pointer;
 	font-size:14px;
 	border-radius: 3px;
 	padding: 12px 35px;
@@ -1386,7 +1386,7 @@ ul.countdown li p {
 #ajax-form textarea:active,
 #ajax-form input:active,
 .subscribe input:active,
-.subscribe input:focus {	
+.subscribe input:focus {
 	border-bottom:1px solid #f8ae2c;
 }
 #ajax-form button:hover{
@@ -1415,13 +1415,13 @@ ul.countdown li p {
 	-webkit-transition: border-bottom 0.3s, color 0.3s;
 	transition: border-bottom 0.3s, color 0.3s;
 }
-.subscribe input {	
+.subscribe input {
 	border-bottom:1px solid rgba(255,255,255,.2);
 }
-.subscribe input:focus {	 
+.subscribe input:focus {
     outline: none !important;
 }
-.subscribe input:focus {	 
+.subscribe input:focus {
     outline: none !important;
 }
 .subscribe input:-ms-input-placeholder  {
@@ -1513,16 +1513,16 @@ ul.countdown li p {
 .footer p small {
 	letter-spacing: 1px;
 	font-weight: 300;
-}	
+}
 .footer .title-page-line	{
 	opacity: 0.6;
 }
-	
+
 
 /* #Media
 ================================================== */
 
-@media (max-width: 1500px) { 
+@media (max-width: 1500px) {
 }
 
 @media (max-width: 1300px) {
@@ -1532,7 +1532,7 @@ ul.countdown li p {
 	}
 }
 
-@media (max-width: 1199px) { 
+@media (max-width: 1199px) {
 	h1, .h1 {
 		font-size: 4rem;
 	}
@@ -1608,7 +1608,7 @@ ul.countdown li p {
 	}
 }
 
-@media (max-width: 991px) { 
+@media (max-width: 991px) {
 	.hero-main-title{
 		display: none;
 	}
@@ -1671,10 +1671,178 @@ ul.countdown li p {
 		display: none;
 	}
 }
+.info-slider {
+  width: 100%;
+  height: 314px;
+  position: relative;
+  overflow: hidden;
+  margin: 1rem 0;
+  color: white !important;
+}
+
+/* hides your radio button */
+  .info-slider input {
+    visibility: hidden;
+}
+
+/*
+the transition is triggered when the radio button is
+checked. In order to make this happen you added the
+:checked attribute to your input */
+  .info-slider input[type="radio"]:checked + .slide {
+    z-index: 100;
+    left: 0;
+    transition: left 0.65s ease-out;
+    /* this is what makes your slide look like it's sliding */
+}
+
+  .info-slider .slide {
+    background-color: #fff !important;
+    border: 1px solid #ff6f59;
+    border-radius: 5px;
+    height: 314px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    z-index: 10;
+    transition: left 0s 0.75s;
+    /* this ensures that your current slide doesn't move until the next slide is transitioning */
+}
+
+    .info-slider .slide .slide-inner {
+      width: 75%;
+      margin: 0 auto;
+      position: absolute;
+      top: 95px;
+      right: 0;
+      left: 0;
+}
+
+  .info-slider label {
+    cursor: pointer;
+    position: absolute;
+    top: 135px;
+}
+
+    .info-slider label i {
+      color: #ffa13e;
+      font-size: 2rem;
+      transition: color 0.3s ease;
+}
+
+  .info-slider label:hover i {
+    color: #d63043;
+}
+
+  .info-slider .prev-slide {
+    left: 40px;
+}
+
+  .info-slider .next-slide {
+    right: 40px;
+}
 
 
+/* Typography Styles */
+.info-slider .section-heading {
+    position: relative;
+    z-index: 105;
+    font-weight: bold;
+    padding-top: 1rem;
+    color: #d63043;
+    text-transform: uppercase;
+}
+
+    .info-slider .slide .bold {
+      font-weight: bold;
+      color: #363537;
+}
+
+    .info-slider .slide .question {
+      display: block;
+      font-size: 1.125rem;
+      margin-bottom: 1rem;
+}
+
+    .info-slider .slide p {
+      font-size: 0.813rem;
+}
 
 
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+
+}
+
+/* Slides */
+.mySlides {
+  display: none;
+  padding: 80px;
+  text-align: center;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 16px;
+  color: #888;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+    text-align: center;
+    padding: 20px;
+
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
+
+/* Add a blue color to the author */
+.author {color: cornflowerblue;}
 
 
 
