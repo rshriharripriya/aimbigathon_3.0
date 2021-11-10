@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5d2672f-e1f4-45d7-a729-c76c57b83eda" name="Changes" comment="" />
+    <list default="true" id="b5d2672f-e1f4-45d7-a729-c76c57b83eda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,6 +63,11 @@
       <workItem from="1636098293894" duration="815000" />
       <workItem from="1636114173228" duration="3966000" />
       <workItem from="1636197240179" duration="2079000" />
+      <workItem from="1636211087313" duration="3000" />
+      <workItem from="1636283227627" duration="1038000" />
+      <workItem from="1636286854313" duration="2527000" />
+      <workItem from="1636479816014" duration="1883000" />
+      <workItem from="1636532141014" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="ADDED THE TITLE Aimbigathon 3.0">
       <created>1636114309995</created>
@@ -102,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636198870179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="faq">
+      <created>1636485582464</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636485582465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +132,7 @@
     <MESSAGE value="om sairam" />
     <MESSAGE value="new template alert" />
     <MESSAGE value="summa some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="summa some changes" />
+    <MESSAGE value="faq" />
+    <option name="LAST_COMMIT_MESSAGE" value="faq" />
   </component>
 </project>
